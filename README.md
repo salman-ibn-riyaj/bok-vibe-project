@@ -1,6 +1,7 @@
 # Book Vibe
 
-![Book Vibe Banner](https://via.placeholder.com/1200x500/1E3A8A/FFFFFF?text=Book+Vibe)
+<img width="1839" height="2995" alt="screencapture-bok-vibe-project-vercel-app-2026-04-08-17_22_42" src="https://github.com/user-attachments/assets/dd890f4b-5275-4720-9835-436bc723b71a" />
+
 
 **Book Vibe** is a modern and interactive web application designed for book lovers. Discover, explore, and manage your favorite books with a beautiful and responsive interface.
 

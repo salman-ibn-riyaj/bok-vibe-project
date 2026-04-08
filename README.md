@@ -8,31 +8,44 @@
 
 ## ✨ Features
 
-- ✅ Browse and search a wide collection of books
-- ✅ Book details with rich information
+- ✅ Browse and search books
+- ✅ Detailed book information
 - ✅ Responsive design for all devices
 - ✅ Smooth navigation with active states
-- ✅ Modern and clean user interface
-- ✅ Fast performance with React
+- ✅ Clean and modern UI
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **React.js** - Frontend Library
-- **HTML5** & **CSS3**
-- **Tailwind CSS** - Styling Framework
-- **React Router DOM** - Routing
-- **Vite** - Build Tool
+- **React.js**
+- **Tailwind CSS**
+- **React Router DOM**
+- **Vite**
 
 ---
 
-## 📦 Main Dependencies
+## 🚀 How to Run Locally
 
-```json
-"dependencies": {
-  "react": "^18.3.1",
-  "react-dom": "^18.3.1",
-  "react-router-dom": "^6.26.0",
-  "tailwindcss": "^3.4.0"
-}
+1. **Clone the Repository**
+```bash
+git clone https://github.com/salman-ibn-riyaj/book-vibe.git
+cd book-vibe
+
+Install Dependencies
+
+Bashnpm install
+
+Start Development Server
+
+Bashnpm run dev
+Open http://localhost:5173 to view it in your browser.
+
+🌐 Live Demo
+https://bok-vibe-project-kq0zrm35m-salman-shahs-projects-21b978b1.vercel.app/
+
+👨‍💻 Developer
+
+Name: Salman Shah
+Location: Mymensingh, Bangladesh
+GitHub: @salman-ibn-riyaj

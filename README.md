@@ -42,7 +42,7 @@ Bashnpm run dev
 Open http://localhost:5173 to view it in your browser.
 
 🌐 Live Demo
-https://bok-vibe-project-kq0zrm35m-salman-shahs-projects-21b978b1.vercel.app/
+https://bok-vibe-project-4tl6.vercel.app
 
 👨‍💻 Developer
 

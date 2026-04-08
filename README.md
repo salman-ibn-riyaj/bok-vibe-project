@@ -1,16 +1,38 @@
-# React + Vite
+# Book Vibe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Book Vibe Banner](https://via.placeholder.com/1200x500/1E3A8A/FFFFFF?text=Book+Vibe)
 
-Currently, two official plugins are available:
+**Book Vibe** is a modern and interactive web application designed for book lovers. Discover, explore, and manage your favorite books with a beautiful and responsive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Browse and search a wide collection of books
+- ✅ Book details with rich information
+- ✅ Responsive design for all devices
+- ✅ Smooth navigation with active states
+- ✅ Modern and clean user interface
+- ✅ Fast performance with React
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **React.js** - Frontend Library
+- **HTML5** & **CSS3**
+- **Tailwind CSS** - Styling Framework
+- **React Router DOM** - Routing
+- **Vite** - Build Tool
+
+---
+
+## 📦 Main Dependencies
+
+```json
+"dependencies": {
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-router-dom": "^6.26.0",
+  "tailwindcss": "^3.4.0"
+}
